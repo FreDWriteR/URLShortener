@@ -5,3 +5,6 @@ taY90L https://stackoverflow.com/questions/2765175/how-to-get-session-variables-
 B84hCt https://www.php.net/manual/ru/control-structures.break.php 0
 L5fYz7 https://guruweba.com/html/podklyuchenie-stiley-css-k-html-dokumentu-kak-podkuchit-css-fail/ 0
 Aan3K0 https://www.php.net/manual/ru/function.exit.php 0
+k5N0Kz https://bootstrap-4.ru/docs/4.0/components/forms/ 0
+vb83SQ https://encycolorpedia.ru/fdf5e6 0
+6gvGM9 https://itchief.ru/bootstrap/buttons 0
