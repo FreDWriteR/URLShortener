@@ -1,0 +1,7 @@
+8Mnd9T https://serverfault.com/questions/776096/understanding-apache-rules-in-directory-directive 2
+Rr6pR3 https://fructcode.com/ru/blog/how-to-send-html-form-with-ajax/ 1
+P7n3nA https://stackoverflow.com/questions/21796947/jquery-ajax-function-not-working 0
+taY90L https://stackoverflow.com/questions/2765175/how-to-get-session-variables-from-php-server-with-ajax-function-php-html-js-aj 6
+B84hCt https://www.php.net/manual/ru/control-structures.break.php 0
+L5fYz7 https://guruweba.com/html/podklyuchenie-stiley-css-k-html-dokumentu-kak-podkuchit-css-fail/ 0
+Aan3K0 https://www.php.net/manual/ru/function.exit.php 0
